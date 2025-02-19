@@ -53,6 +53,7 @@ export function About() {
 
         <br></br>
 
+<<<<<<< HEAD
         <Paper elevation={3} backgroundcolor={"#FFFDD0"} style={{padding: "5px"}}>
           <Typography>
             <b>Fun Facts</b>
@@ -69,6 +70,22 @@ export function About() {
         </Paper>
 
         
+=======
+        <Paper elevation={3} backgroundColor={"#FFFDD0"} style={{padding: "5px"}}>
+          <Typography position={"relative"}>
+            <b>Fun Facts</b>
+            <ul position={"relative"} style={{marginLeft: "40px"}}>
+              <li>I can juggle</li>
+              <li>I can raise one eyebrow without raising the other</li>
+              <li>I've broken my wrist trying to dunk a basketball 2 months before the HSC</li>
+              <li>I've never lost a fight against a silverback gorilla</li>
+              <li>My left thumb can fold to 90 degrees</li>
+              
+
+            </ul>
+          </Typography>
+        </Paper>
+>>>>>>> 0032e37efc32113e08757649a9160182401e8c6d
 
       </Paper>
     </Box>

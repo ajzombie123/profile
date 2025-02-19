@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import React from 'react';
+=======
+
+>>>>>>> 0032e37efc32113e08757649a9160182401e8c6d
 import './App.css'
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import { Header } from './Header';
