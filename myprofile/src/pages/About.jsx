@@ -34,7 +34,7 @@ export function About() {
         <hr></hr>
 
         <Box style={{marginTop: "5px", padding: "5px"}}>
-          <img style={{zIndex: "1", width: "250px", height: "170px"}} src="/dog.png" alt="Dog" />
+          <img style={{zIndex: "1", width: "250px", height: "170px"}} src="dog.png" alt="Dog" />
           <br></br>
           <Typography backgroundColor>
             
