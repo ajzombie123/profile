@@ -36,17 +36,17 @@ export function ChinaTrip() {
         </Paper>
 
         <Paper style={{display: "flex", justifyContent: "center"}}>
-            {/* <video
+            <video
             src="IMG_1307.MOV"
             style={{ width: "50%", height: "auto" }}
             controls
-          /> */}
-          <img src="IMG_0696.JPG" style={{width: "40%", height: "auto" }} />
+          />
+          {/* <img src="IMG_0696.JPG" style={{width: "40%", height: "auto" }} /> */}
         </Paper>
 
         <Paper style={{margin: "10px 0px", padding: "5px"}}>
-          {/* Above are the Lunar New Year fireworks that we saw in person! */}
-          Here are the ducks we saw near the lake!
+          Above are the Lunar New Year fireworks that we saw in person!
+          {/* Here are the ducks we saw near the lake! */}
         </Paper>
 
         <Box style={{width: "100%", height: "90%", backgroundColor: "light-red", display: "grid", gridTemplateColumns: "1fr 1fr 1fr", gridTemplateRows: "1fr 1fr", gap: "5px"}}>
