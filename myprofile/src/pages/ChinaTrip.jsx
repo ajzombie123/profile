@@ -37,7 +37,7 @@ export function ChinaTrip() {
 
         <Paper style={{display: "flex", justifyContent: "center"}}>
             <video
-            src="IMG_1307.MOV"
+            src="/profile/IMG_1307.MOV"
             style={{ width: "50%", height: "auto" }}
             controls
           />
