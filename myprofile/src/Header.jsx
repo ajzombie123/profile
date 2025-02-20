@@ -7,10 +7,10 @@ import App from "./App"
 export function Header() {
   const navigate = useNavigate()
 
-  const goToAbout = () => navigate("/")
-  const goToHobbies = () => navigate("/Hobbies")
-  const goToProjects = () => navigate("/Projects")
-  const goToChinaTrip = () => navigate("/ChinaTrip")
+  const goToAbout = () => navigate("/profile/")
+  const goToHobbies = () => navigate("/profile/Hobbies")
+  const goToProjects = () => navigate("/profile/Projects")
+  const goToChinaTrip = () => navigate("/profile/ChinaTrip")
 
   return (
     <Box>
